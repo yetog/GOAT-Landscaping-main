@@ -1,3 +1,63 @@
+# GOAT Landscaping — Build Workflow & Session Log
+
+> This repo is GOAT Landscaping. It is a separate codebase cloned and refactored from Green Empire. Do not sync or copy changes back to Green Empire without explicit instruction.
+
+---
+
+## GOAT-Specific Config
+
+| Field | Value |
+|---|---|
+| Business Name | GOAT Landscaping |
+| Address | 5020 Sunrise Hwy, Massapequa Park, NY 11762 |
+| Phone | (516) 217-8909 |
+| Email | goatlandscapingli@gmail.com |
+| Hours | Mon–Sat 8:00 AM – 6:00 PM |
+| Domain | www.goatlandscapeli.com |
+| Zapier Webhook | https://hooks.zapier.com/hooks/catch/26765756/4ycpd3e/ |
+| Lead Email | goatlandscapingli@gmail.com |
+| SMS Notify | 5167121231 |
+| GitHub | https://github.com/yetog/GOAT-Landscaping-main |
+| Brand Colors | Primary `#2C4A1E` · Stone `#C8B89A` · Cream `#F5F0E8` · Charcoal `#1A1A1A` |
+| Service Areas | 10 Nassau (South Shore) + 5 Suffolk = 15 towns |
+| Services | 7 (same categories as GEL, all copy rewritten) |
+
+## GOAT Session Log
+
+### Session 1 — Full Site Build (May 2026)
+- Cloned Green Empire codebase to `GOAT-Landscaping-main`
+- Replaced all content in `site.config.json` with GOAT client brief:
+  - 7 services with completely rewritten descriptions and hero text
+  - 15 South Shore service area pages (10 Nassau + 5 Suffolk)
+  - 4 real customer reviews from client brief
+  - 6 FAQs from client brief
+- Updated `generate.py` with GOAT-specific hardcoded copy throughout:
+  - Stats bar: South Shore positioning instead of year counts
+  - "How It Works" steps: retitled for GOAT voice
+  - "Why Us" section: Massapequa Park-based, "South Shore's Best" headline
+  - About page: rewrote bio and "What Makes GOAT Different" feature grid
+  - Gallery, Reviews, Service Areas sections: South Shore copy
+  - CTA banners: "Ready to Build Something Outstanding?"
+  - All blog posts replaced (3 new GOAT-specific articles)
+- Replaced Green Empire logo with GOAT logo (from Downloads)
+- Removed 20 stale GEL service-area pages + 3 old blog posts
+- Session 2: Added real client photos from `projects.zip`:
+  - 3 hero carousel images ("Hero section.png" × 3)
+  - 2 service images: Outdoor Living, Landscape Design & Installation
+  - Updated Zapier webhook: `26765756/4ycpd3e/`
+  - Updated domain: `goatlandscapeli.com`
+- Generated 37 pages, committed, pushed to GitHub
+
+### Pending Before Launch
+- [ ] Zapier zap tested (submit real lead, confirm email + SMS arrive)
+- [ ] Real photos for remaining 5 services (currently using Gemini placeholders)
+- [ ] Facebook + Instagram URLs (currently `#`)
+- [ ] Google Maps embed URL (currently approximated)
+- [ ] Domain DNS pointed at hosting
+- [ ] Google Search Console submitted
+
+---
+
 # Green Empire — Build Workflow & Agent Playbook
 
 How this site was built. Use this as a repeatable playbook for new service business websites.

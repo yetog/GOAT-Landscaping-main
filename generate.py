@@ -557,7 +557,7 @@ def make_homepage():
 <!-- WHY US -->
 <section class="split-section">
   <div class="split-img">
-    <img src="/images/Gemini_Generated_Image_xrda4xxrda4xxrda.png" alt="GOAT Landscaping — Massapequa Park, NY" />
+    <img src="/images/service-outdoor-living.png" alt="GOAT Landscaping — Massapequa Park, NY" />
   </div>
   <div class="split-content">
     <span class="eyebrow">Why {NAME}</span>
