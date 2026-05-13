@@ -1,0 +1,15 @@
+# Large extracted CSS — not needed in repo
+css/neighborly.css
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

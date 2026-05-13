@@ -1,0 +1,261 @@
+{
+  "brand": {
+    "name": "GOAT Landscaping",
+    "tagline": "South Shore's Standard for Custom Outdoor Living",
+    "phone": "(516) 217-8909",
+    "phoneRaw": "5162178909",
+    "email": "goatlandscapingli@gmail.com",
+    "address": "5020 Sunrise Hwy",
+    "city": "Massapequa Park",
+    "state": "NY",
+    "zip": "11762",
+    "hours": "Mon–Sat 8:00 AM – 6:00 PM",
+    "domain": "www.goatlandscapingli.com",
+    "zapierWebhook": "https://hooks.zapier.com/hooks/catch/REPLACE/REPLACE/",
+    "font": "Inter",
+    "forms": {
+      "notifyEmail": "goatlandscapingli@gmail.com",
+      "notifyPhone": "5167121231"
+    },
+    "schemaType": "LandscapingBusiness",
+    "footerTagline": "Custom landscaping, pavers, and outdoor living for the South Shore of Long Island. Licensed, insured, and based in Massapequa Park, NY.",
+    "heroSubtext": "Every project gets personal attention, transparent pricing, and a crew that doesn't leave until the job is done right. Custom landscapes, patios, pavers, driveways, and outdoor living environments built to last.",
+    "servicesHeadline": "Custom Landscaping & Outdoor Living for the South Shore",
+    "facebook": "#",
+    "instagram": "#",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.5!2d-73.4510!3d40.6697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c27e0a6b2a4c5d%3A0x4d3e5f6a7b8c9d0e!2s5020%20Sunrise%20Hwy%2C%20Massapequa%20Park%2C%20NY%2011762!5e0!3m2!1sen!2sus!4v1710000000000",
+    "primaryColor": "#2C4A1E",
+    "primaryDark": "#1e3314",
+    "secondaryColor": "#C8B89A",
+    "secondaryDark": "#b5a487",
+    "industry": "Landscaping",
+    "industryLower": "landscaping",
+    "heroSlides": [
+      "/images/hero-bg.jpg",
+      "/images/hero-slides/slide-2.jpg",
+      "/images/hero-slides/slide-3.jpg",
+      "/images/hero-slides/slide-4.jpg"
+    ]
+  },
+  "services": [
+    {
+      "slug": "back-yard-landscaping",
+      "name": "Back Yard Landscaping",
+      "shortName": "Back Yard",
+      "icon": "🌿",
+      "image": "/images/Gemini_Generated_Image_uammkeuammkeuamm.png",
+      "description": "Your backyard should work as hard as you do. We design and install lush, functional back yard environments — from custom planting beds and lawn restoration to full private retreats.",
+      "heroText": "A great backyard doesn't happen by accident. GOAT Landscaping designs and installs custom back yard landscapes for South Shore homeowners — built to look stunning and hold up year after year.",
+      "bullets": [
+        "Custom landscape design consultation",
+        "Garden bed design and installation",
+        "Lawn grading, seeding, and restoration",
+        "Privacy plantings and natural screening",
+        "Full back yard renovation packages"
+      ]
+    },
+    {
+      "slug": "front-yard-landscaping",
+      "name": "Front Yard Landscaping",
+      "shortName": "Front Yard",
+      "icon": "🏡",
+      "image": "/images/Gemini_Generated_Image_ip9eoyip9eoyip9e.png",
+      "description": "Your home's first impression starts at the curb. We design front yard landscapes that turn heads — clean lines, seasonal color, and plants chosen to thrive on the South Shore.",
+      "heroText": "First impressions matter. GOAT Landscaping creates polished, well-structured front yard landscapes that make South Shore homes stand out — and stay standing through every Long Island season.",
+      "bullets": [
+        "Curb appeal design and consultation",
+        "Custom planting and garden bed installation",
+        "Walkway edging and decorative borders",
+        "Seasonal color and display plantings",
+        "Lawn restoration and sodding"
+      ]
+    },
+    {
+      "slug": "paver-installation",
+      "name": "Paver Installation",
+      "shortName": "Pavers",
+      "icon": "🧱",
+      "image": "/images/Gemini_Generated_Image_y2uab4y2uab4y2ua.png",
+      "description": "Pavers done right handle Long Island winters without shifting, cracking, or settling. We install premium natural stone and concrete paver systems built to last for decades.",
+      "heroText": "Not all paver installations are built the same. GOAT Landscaping uses proper base preparation, quality materials, and precision installation — so your pavers look great and stay in place for years.",
+      "bullets": [
+        "Walkway and garden path installation",
+        "Patio and outdoor floor systems",
+        "Pool deck paver installation",
+        "Step, landing, and level construction",
+        "Polymeric sand finishing and professional sealing"
+      ]
+    },
+    {
+      "slug": "driveway-installation",
+      "name": "Driveway Installation",
+      "shortName": "Driveways",
+      "icon": "🛤️",
+      "image": "/images/Gemini_Generated_Image_7vpm8z7vpm8z7vpm.png",
+      "description": "A statement driveway changes how your home reads from the street. We design and install paver driveways with custom borders and edging that elevate the entire property.",
+      "heroText": "Your driveway makes a statement before anyone reaches your door. GOAT Landscaping installs custom driveways that blend beauty and durability — built for the South Shore's climate and built to impress.",
+      "bullets": [
+        "Paver driveway design and installation",
+        "Asphalt borders and custom edging",
+        "Drainage and grading solutions",
+        "Existing driveway removal and disposal",
+        "New construction and full replacements"
+      ]
+    },
+    {
+      "slug": "patio-installation",
+      "name": "Patio Installation",
+      "shortName": "Patios",
+      "icon": "☀️",
+      "image": "/images/Gemini_Generated_Image_5uib285uib285uib.png",
+      "description": "The right patio becomes the most-used space on your property. We build custom outdoor floors designed for entertaining, daily use, and lasting curb appeal — from base prep to final seal.",
+      "heroText": "A well-built patio changes how you live in your home. GOAT Landscaping creates custom patios for South Shore homeowners who want a finished outdoor floor that handles real life and real Long Island weather.",
+      "bullets": [
+        "Custom patio design and layout planning",
+        "Paver and natural stone installation",
+        "Steps, landings, and level transitions",
+        "Outdoor kitchen and fire feature prep",
+        "Drainage and lighting conduit planning"
+      ]
+    },
+    {
+      "slug": "outdoor-living-spaces",
+      "name": "Outdoor Living Spaces",
+      "shortName": "Outdoor Living",
+      "icon": "🔥",
+      "image": "/images/Gemini_Generated_Image_xrda4xxrda4xxrda.png",
+      "description": "Turn your backyard into a true extension of your home. Pergolas, fire pits, outdoor kitchens, and custom seating areas designed and built by people who care about every detail.",
+      "heroText": "Outdoor living is how the South Shore spends its summers. GOAT Landscaping designs and builds complete outdoor environments — pergolas, fire pits, outdoor kitchens, and custom entertaining spaces built to be used.",
+      "bullets": [
+        "Pergola and shade structure installation",
+        "Fire pit and outdoor fireplace builds",
+        "Outdoor kitchen and bar setup",
+        "Custom seating and entertaining areas",
+        "Ambient lighting integration"
+      ]
+    },
+    {
+      "slug": "landscape-design-installation",
+      "name": "Landscape Design & Installation",
+      "shortName": "Landscape Design",
+      "icon": "📐",
+      "image": "/images/Gemini_Generated_Image_i4xd76i4xd76i4xd.png",
+      "description": "Every great outdoor space starts with a great plan. Custom landscape designs built around your property, your lifestyle, and the Long Island climate — from concept to final plant.",
+      "heroText": "Great landscapes are designed before they're built. GOAT Landscaping creates custom plans for South Shore properties — then executes every detail with precision from first plant to final cleanup.",
+      "bullets": [
+        "On-site design consultation",
+        "Custom landscape plans tailored to your property",
+        "Plant selection for Long Island climate",
+        "Full landscape installation and grading",
+        "Irrigation and drainage coordination"
+      ]
+    }
+  ],
+  "serviceAreas": [
+    { "slug": "massapequa-park", "name": "Massapequa Park", "county": "Nassau", "nearbyAreas": ["Seaford", "Wantagh", "Amityville", "Bellmore"] },
+    { "slug": "seaford", "name": "Seaford", "county": "Nassau", "nearbyAreas": ["Wantagh", "Massapequa Park", "Bellmore", "Oceanside"] },
+    { "slug": "wantagh", "name": "Wantagh", "county": "Nassau", "nearbyAreas": ["Seaford", "Bellmore", "Merrick", "Massapequa Park"] },
+    { "slug": "bellmore", "name": "Bellmore", "county": "Nassau", "nearbyAreas": ["Wantagh", "Merrick", "Seaford", "North Bellmore"] },
+    { "slug": "merrick", "name": "Merrick", "county": "Nassau", "nearbyAreas": ["Bellmore", "North Merrick", "Seaford", "Freeport"] },
+    { "slug": "north-bellmore", "name": "North Bellmore", "county": "Nassau", "nearbyAreas": ["Bellmore", "Wantagh", "Merrick", "Seaford"] },
+    { "slug": "north-merrick", "name": "North Merrick", "county": "Nassau", "nearbyAreas": ["Merrick", "Bellmore", "Freeport", "Baldwin"] },
+    { "slug": "oceanside", "name": "Oceanside", "county": "Nassau", "nearbyAreas": ["Baldwin", "Rockville Centre", "Lynbrook", "Merrick"] },
+    { "slug": "baldwin", "name": "Baldwin", "county": "Nassau", "nearbyAreas": ["Oceanside", "Lynbrook", "Freeport", "Merrick"] },
+    { "slug": "lynbrook", "name": "Lynbrook", "county": "Nassau", "nearbyAreas": ["Baldwin", "Oceanside", "Rockville Centre", "Valley Stream"] },
+    { "slug": "amityville", "name": "Amityville", "county": "Suffolk", "nearbyAreas": ["Copiague", "Lindenhurst", "West Babylon", "Massapequa Park"] },
+    { "slug": "copiague", "name": "Copiague", "county": "Suffolk", "nearbyAreas": ["Amityville", "Lindenhurst", "West Babylon", "North Amityville"] },
+    { "slug": "lindenhurst", "name": "Lindenhurst", "county": "Suffolk", "nearbyAreas": ["Copiague", "Amityville", "West Babylon", "Babylon"] },
+    { "slug": "north-amityville", "name": "North Amityville", "county": "Suffolk", "nearbyAreas": ["Amityville", "Copiague", "West Babylon", "Lindenhurst"] },
+    { "slug": "west-babylon", "name": "West Babylon", "county": "Suffolk", "nearbyAreas": ["Babylon", "Amityville", "Lindenhurst", "North Amityville"] }
+  ],
+  "reviews": [
+    {
+      "name": "James R.",
+      "location": "Wantagh, NY",
+      "text": "GOAT completely redid our backyard — new patio, pavers, and plantings. The attention to detail was unlike any contractor we've hired. The property looks like something out of a magazine.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa M.",
+      "location": "Seaford, NY",
+      "text": "From the first consultation to the final walkthrough, these guys were professional every step of the way. Our front yard has never looked better and the neighbors keep asking who did it.",
+      "rating": 5
+    },
+    {
+      "name": "Anthony D.",
+      "location": "Bellmore, NY",
+      "text": "Had them put in a full paver driveway and patio. Pricing was fair, timeline was exactly as promised, and the quality is outstanding. Will definitely be using GOAT again.",
+      "rating": 5
+    },
+    {
+      "name": "Karen S.",
+      "location": "Merrick, NY",
+      "text": "The team designed and installed a pergola with a fire pit area for us. It came out better than we imagined. Highly recommend if you want real craftsmanship on the South Shore.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What areas do you serve?",
+      "a": "We serve the South Shore of Nassau and Suffolk Counties — including Massapequa Park, Seaford, Wantagh, Bellmore, Merrick, Oceanside, Baldwin, Amityville, Lindenhurst, and surrounding communities. Not sure if we cover your area? Call or text us at (516) 217-8909."
+    },
+    {
+      "q": "How do I get a free estimate?",
+      "a": "Call or text us at (516) 217-8909 or submit the form on our website. We typically respond within 1 hour and can schedule a free on-site consultation at your convenience."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes — GOAT Landscaping is fully insured in New York State with liability and workers' compensation coverage on every project."
+    },
+    {
+      "q": "What's your process from start to finish?",
+      "a": "We start with a free on-site consultation, then provide a detailed written quote before any work begins. Once approved, our crew handles everything — materials, installation, and cleanup — with no surprises."
+    },
+    {
+      "q": "When's the best time to start a project?",
+      "a": "Spring and fall are the most popular seasons, but we work year-round. We recommend booking at least 2–3 weeks out to secure your spot on the schedule."
+    },
+    {
+      "q": "What's the difference between a landscaping company and a lawn care service?",
+      "a": "A lawn care service handles recurring maintenance — mowing, fertilizing, edging. A landscaping company like GOAT designs and builds your outdoor space from the ground up — grading, planting, hardscaping, patios, driveways, and full outdoor environments. We are a design and installation company, not a maintenance service."
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/Gemini_Generated_Image_i4xd76i4xd76i4xd.png",
+      "alt": "Custom landscape design and installation on the South Shore of Long Island",
+      "label": "Landscape Design & Installation",
+      "icon": "📐"
+    },
+    {
+      "src": "/images/Gemini_Generated_Image_xrda4xxrda4xxrda.png",
+      "alt": "Custom outdoor living space with pergola, fire pit, and paver patio",
+      "label": "Outdoor Living Space",
+      "icon": "🔥"
+    },
+    {
+      "src": "/images/Gemini_Generated_Image_7vpm8z7vpm8z7vpm.png",
+      "alt": "Premium paver driveway installation with custom edging",
+      "label": "Paver Driveway",
+      "icon": "🛤️"
+    },
+    {
+      "src": "/images/Gemini_Generated_Image_pdxum4pdxum4pdxu.png",
+      "alt": "Back yard landscaping renovation with custom patio",
+      "label": "Back Yard Renovation",
+      "icon": "🌿"
+    },
+    {
+      "src": "/images/Gemini_Generated_Image_imgt0pimgt0pimgt.png",
+      "alt": "Front yard landscaping with custom beds and paver walkway",
+      "label": "Front Yard Landscaping",
+      "icon": "🏡"
+    },
+    {
+      "src": "/images/Gemini_Generated_Image_5uib285uib285uib.png",
+      "alt": "Custom patio with outdoor kitchen and fire feature",
+      "label": "Patio & Outdoor Kitchen",
+      "icon": "☀️"
+    }
+  ]
+}
