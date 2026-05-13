@@ -42,7 +42,7 @@
       "name": "Back Yard Landscaping",
       "shortName": "Back Yard",
       "icon": "🌿",
-      "image": "/images/Gemini_Generated_Image_uammkeuammkeuamm.png",
+      "image": "/images/service-back-yard.png",
       "description": "Your backyard should work as hard as you do. We design and install lush, functional back yard environments — from custom planting beds and lawn restoration to full private retreats.",
       "heroText": "A great backyard doesn't happen by accident. GOAT Landscaping designs and installs custom back yard landscapes for South Shore homeowners — built to look stunning and hold up year after year.",
       "bullets": [
@@ -58,7 +58,7 @@
       "name": "Front Yard Landscaping",
       "shortName": "Front Yard",
       "icon": "🏡",
-      "image": "/images/Gemini_Generated_Image_ip9eoyip9eoyip9e.png",
+      "image": "/images/service-front-yard.png",
       "description": "Your home's first impression starts at the curb. We design front yard landscapes that turn heads — clean lines, seasonal color, and plants chosen to thrive on the South Shore.",
       "heroText": "First impressions matter. GOAT Landscaping creates polished, well-structured front yard landscapes that make South Shore homes stand out — and stay standing through every Long Island season.",
       "bullets": [
@@ -74,7 +74,7 @@
       "name": "Paver Installation",
       "shortName": "Pavers",
       "icon": "🧱",
-      "image": "/images/Gemini_Generated_Image_y2uab4y2uab4y2ua.png",
+      "image": "/images/service-paver.png",
       "description": "Pavers done right handle Long Island winters without shifting, cracking, or settling. We install premium natural stone and concrete paver systems built to last for decades.",
       "heroText": "Not all paver installations are built the same. GOAT Landscaping uses proper base preparation, quality materials, and precision installation — so your pavers look great and stay in place for years.",
       "bullets": [
@@ -90,7 +90,7 @@
       "name": "Driveway Installation",
       "shortName": "Driveways",
       "icon": "🛤️",
-      "image": "/images/Gemini_Generated_Image_7vpm8z7vpm8z7vpm.png",
+      "image": "/images/service-driveway.png",
       "description": "A statement driveway changes how your home reads from the street. We design and install paver driveways with custom borders and edging that elevate the entire property.",
       "heroText": "Your driveway makes a statement before anyone reaches your door. GOAT Landscaping installs custom driveways that blend beauty and durability — built for the South Shore's climate and built to impress.",
       "bullets": [
@@ -106,7 +106,7 @@
       "name": "Patio Installation",
       "shortName": "Patios",
       "icon": "☀️",
-      "image": "/images/Gemini_Generated_Image_5uib285uib285uib.png",
+      "image": "/images/service-patio.png",
       "description": "The right patio becomes the most-used space on your property. We build custom outdoor floors designed for entertaining, daily use, and lasting curb appeal — from base prep to final seal.",
       "heroText": "A well-built patio changes how you live in your home. GOAT Landscaping creates custom patios for South Shore homeowners who want a finished outdoor floor that handles real life and real Long Island weather.",
       "bullets": [
@@ -233,25 +233,25 @@
       "icon": "🔥"
     },
     {
-      "src": "/images/Gemini_Generated_Image_7vpm8z7vpm8z7vpm.png",
+      "src": "/images/service-driveway.png",
       "alt": "Premium paver driveway installation with custom edging",
       "label": "Paver Driveway",
       "icon": "🛤️"
     },
     {
-      "src": "/images/Gemini_Generated_Image_pdxum4pdxum4pdxu.png",
+      "src": "/images/service-back-yard.png",
       "alt": "Back yard landscaping renovation with custom patio",
       "label": "Back Yard Renovation",
       "icon": "🌿"
     },
     {
-      "src": "/images/Gemini_Generated_Image_imgt0pimgt0pimgt.png",
+      "src": "/images/service-front-yard.png",
       "alt": "Front yard landscaping with custom beds and paver walkway",
       "label": "Front Yard Landscaping",
       "icon": "🏡"
     },
     {
-      "src": "/images/Gemini_Generated_Image_5uib285uib285uib.png",
+      "src": "/images/service-patio.png",
       "alt": "Custom patio with outdoor kitchen and fire feature",
       "label": "Patio & Outdoor Kitchen",
       "icon": "☀️"
