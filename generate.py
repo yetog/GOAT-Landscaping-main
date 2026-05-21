@@ -372,8 +372,8 @@ def gallery_section():
   <div class="container">
     <div class="section-header">
       <span class="eyebrow">Our Work</span>
-      <h2>South Shore Work We're Proud Of</h2>
-      <p>Custom landscapes, pavers, patios, and outdoor living spaces — built right here on Long Island's South Shore. Every project is one-of-a-kind.</p>
+      <h2>Work We're Proud Of</h2>
+      <p>Custom landscapes, pavers, patios, and outdoor living spaces — built right here on Long Island. Every project is one-of-a-kind.</p>
     </div>
     <div class="gallery-grid">
 {items_html}
@@ -436,7 +436,7 @@ def make_homepage():
   <div class="container">
     <div class="hero-content">
       <span class="hero-brand-name">{NAME}</span>
-      <span class="hero-badge">{B['city']}, NY · South Shore Long Island</span>
+      <span class="hero-badge">{B['city']}, NY · Nassau &amp; Suffolk Counties</span>
       <h1>{B['tagline']}</h1>
       <p>{B.get('heroSubtext', f'Professional {B.get("industryLower","contracting")} services for Long Island homeowners. Call {PHONE} for a free estimate.')}</p>
       <div class="hero-actions">
@@ -445,7 +445,7 @@ def make_homepage():
       </div>
       <div class="hero-trust">
         <span>5-Star Rated</span>
-        <span>Licensed &amp; Insured</span>
+        <span>Certified &amp; Insured</span>
         <span>{B['city']} Based</span>
       </div>
     </div>
@@ -482,7 +482,6 @@ def make_homepage():
 <!-- STATS -->
 <div class="stats-bar">
   <div class="container stats-grid">
-    <div class="stat"><span class="stat-n">South Shore</span><span class="stat-l">Specialists Since Day One</span></div>
     <div class="stat"><span class="stat-n">100%</span><span class="stat-l">Custom Builds — No Templates</span></div>
     <div class="stat"><span class="stat-n">15+</span><span class="stat-l">Towns Served</span></div>
     <div class="stat"><span class="stat-n">5-Star</span><span class="stat-l">Rated by Homeowners</span></div>
@@ -557,14 +556,14 @@ def make_homepage():
 <!-- WHY US -->
 <section class="split-section">
   <div class="split-img">
-    <img src="/images/service-outdoor-living.png" alt="GOAT Landscaping — Massapequa Park, NY" />
+    <img src="/images/crew.png" alt="GOAT Landscaping crew — Massapequa Park, NY" />
   </div>
   <div class="split-content">
     <span class="eyebrow">Why {NAME}</span>
     <h2>South Shore's Best. No Exceptions.</h2>
     <p>Based in Massapequa Park — not a franchise, not a national chain. Every project is personally managed from the first consultation to the final walkthrough.</p>
     <ul class="check-list">
-      <li>Licensed &amp; insured in New York State</li>
+      <li>Certified &amp; insured in New York State</li>
       <li>Transparent pricing — written quote before any work begins</li>
       <li>100% custom — no templates, no cookie-cutter designs</li>
       <li>Crew that doesn't leave until the job is done right</li>
@@ -579,7 +578,7 @@ def make_homepage():
   <div class="container">
     <div class="section-header">
       <span class="eyebrow">Reviews</span>
-      <h2>What South Shore Homeowners Are Saying</h2>
+      <h2>What Homeowners Are Saying</h2>
     </div>
     <div class="review-grid">
       {review_cards()}
@@ -595,8 +594,8 @@ def make_homepage():
   <div class="container">
     <div class="section-header">
       <span class="eyebrow">Service Areas</span>
-      <h2>Serving the South Shore of Long Island</h2>
-      <p>We cover Nassau and Suffolk Counties on the South Shore. Don't see your town? Call us — we likely serve you.</p>
+      <h2>Serving Long Island</h2>
+      <p>We cover Nassau and Suffolk Counties. Don't see your town? Call us — we likely serve you.</p>
     </div>
     <div class="city-grid">
       {service_area_links()}
@@ -983,14 +982,14 @@ def make_about():
 <section class="section">
   <div class="container">
     <div class="split-section">
-      <div class="split-img"><img src="/images/hero-bg.jpg" alt="{NAME} — locally owned and operated in Massapequa Park, NY" /></div>
+      <div class="split-img"><img src="/images/crew.png" alt="{NAME} crew — locally owned and operated in Massapequa Park, NY" /></div>
       <div class="split-content">
         <span class="eyebrow">Who We Are</span>
         <h2>Built to Be the Best</h2>
         <p>{NAME} is a South Shore landscaping company built around one standard: the best. Based at {B['address']} in {B['city']}, NY, we design and install custom landscapes, patios, pavers, and outdoor living spaces for homeowners who expect craftsmanship.</p>
         <p>Not a franchise — a locally owned team. Every project gets personal attention, transparent pricing, and a crew that doesn't leave until the job is done right.</p>
         <ul class="check-list">
-          <li>Fully licensed and insured in New York State</li>
+          <li>Fully certified and insured in New York State</li>
           <li>Locally owned — based in {B['city']}, NY</li>
           <li>100% custom designs — no templates or shortcuts</li>
           <li>Free on-site consultation before any quote</li>

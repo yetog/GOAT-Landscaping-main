@@ -1,7 +1,7 @@
 {
   "brand": {
     "name": "GOAT Landscaping",
-    "tagline": "South Shore's Standard for Custom Outdoor Living",
+    "tagline": "Landscaping & Outdoor Renovation Done Right",
     "phone": "(516) 217-8909",
     "phoneRaw": "5162178909",
     "email": "goatlandscapingli@gmail.com",
@@ -18,7 +18,7 @@
       "notifyPhone": "5167121231"
     },
     "schemaType": "LandscapingBusiness",
-    "footerTagline": "Custom landscaping, pavers, and outdoor living for the South Shore of Long Island. Licensed, insured, and based in Massapequa Park, NY.",
+    "footerTagline": "Custom landscaping, pavers, and outdoor living for Nassau & Suffolk Counties. Certified, insured, and based in Massapequa Park, NY.",
     "heroSubtext": "Every project gets personal attention, transparent pricing, and a crew that doesn't leave until the job is done right. Custom landscapes, patios, pavers, driveways, and outdoor living environments built to last.",
     "servicesHeadline": "Custom Landscaping & Outdoor Living for the South Shore",
     "facebook": "#",
@@ -196,15 +196,11 @@
   "faqs": [
     {
       "q": "What areas do you serve?",
-      "a": "We serve the South Shore of Nassau and Suffolk Counties — including Massapequa Park, Seaford, Wantagh, Bellmore, Merrick, Oceanside, Baldwin, Amityville, Lindenhurst, and surrounding communities. Not sure if we cover your area? Call or text us at (516) 217-8909."
+      "a": "We serve Nassau and Suffolk Counties — including Massapequa Park, Seaford, Wantagh, Bellmore, Merrick, Oceanside, Baldwin, Amityville, Lindenhurst, and surrounding communities. Not sure if we cover your area? Call or text us at (516) 217-8909."
     },
     {
       "q": "How do I get a free estimate?",
       "a": "Call or text us at (516) 217-8909 or submit the form on our website. We typically respond within 1 hour and can schedule a free on-site consultation at your convenience."
-    },
-    {
-      "q": "Are you licensed and insured?",
-      "a": "Yes — GOAT Landscaping is fully insured in New York State with liability and workers' compensation coverage on every project."
     },
     {
       "q": "What's your process from start to finish?",
@@ -216,13 +212,13 @@
     },
     {
       "q": "What's the difference between a landscaping company and a lawn care service?",
-      "a": "A lawn care service handles recurring maintenance — mowing, fertilizing, edging. A landscaping company like GOAT designs and builds your outdoor space from the ground up — grading, planting, hardscaping, patios, driveways, and full outdoor environments. We are a design and installation company, not a maintenance service."
+      "a": "A lawn care service handles recurring maintenance — mowing, fertilizing, edging. A landscaping company designs and builds your outdoor space from the ground up — grading, planting, hardscaping, patios, driveways, and full outdoor environments."
     }
   ],
   "gallery": [
     {
       "src": "/images/service-landscape-design.png",
-      "alt": "Custom landscape design and installation on the South Shore of Long Island",
+      "alt": "Custom landscape design and installation on Long Island",
       "label": "Landscape Design & Installation",
       "icon": "📐"
     },
