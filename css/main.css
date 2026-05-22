@@ -434,13 +434,6 @@ nav.breadcrumbs {
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(
-    to right,
-    rgba(21,56,32,.92) 0%,
-    rgba(21,56,32,.75) 45%,
-    rgba(21,56,32,.4)  70%,
-    rgba(21,56,32,.15) 100%
-  );
 }
 .hero .container {
   position: relative;
