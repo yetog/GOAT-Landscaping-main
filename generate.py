@@ -320,6 +320,29 @@ def breadcrumbs(crumbs):
   </script>"""
     return f'<nav class="breadcrumbs" aria-label="Breadcrumb"><div class="container"><ol class="breadcrumb-list">{"".join(items)}</ol></div></nav>', schema
 
+# Build sameAs array (only include non-empty social links)
+_same_as = [s for s in [B.get('facebook',''), B.get('instagram','')] if s and s != '#']
+_same_as_json = f',"sameAs":{json.dumps(_same_as)}' if _same_as else ''
+
+# Build reviews array with datePublished
+_reviews_json = json.dumps([{
+    "@type": "Review",
+    "author": {"@type": "Person", "name": r["name"]},
+    "datePublished": r.get("date", "2025-01-01"),
+    "reviewRating": {"@type": "Rating", "ratingValue": str(r["rating"]), "bestRating": "5"},
+    "reviewBody": r["text"]
+} for r in REVIEWS])
+
+# Build aggregateRating
+_avg_rating = sum(r["rating"] for r in REVIEWS) / len(REVIEWS) if REVIEWS else 5
+_aggregate_rating = json.dumps({
+    "@type": "AggregateRating",
+    "ratingValue": str(round(_avg_rating, 1)),
+    "reviewCount": str(len(REVIEWS)),
+    "bestRating": "5",
+    "worstRating": "1"
+})
+
 LOCAL_BIZ_SCHEMA = f"""<script type="application/ld+json">
   {{
     "@context":"https://schema.org",
@@ -331,8 +354,9 @@ LOCAL_BIZ_SCHEMA = f"""<script type="application/ld+json">
     "priceRange":"$$",
     "openingHours":"Mo-Sa 08:00-18:00",
     "geo":{{"@type":"GeoCoordinates","latitude":40.7065,"longitude":-73.6212}},
-    "areaServed":{json.dumps([{"@type":"City","name":a["name"]} for a in AREAS])},
-    "sameAs":["{B['facebook']}","{B['instagram']}"]
+    "areaServed":{json.dumps([{"@type":"City","name":a["name"]} for a in AREAS])}{_same_as_json},
+    "aggregateRating": {_aggregate_rating},
+    "review": {_reviews_json}
   }}
   </script>"""
 
